@@ -1,0 +1,1 @@
+# Python-School-Program-for-Sequences-of-Numbers
